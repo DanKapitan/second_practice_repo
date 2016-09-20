@@ -13,6 +13,12 @@ IT GETS INTERESTING
 BRUHHH!!!
 
 LEts go. I messed up
+<<<<<<< HEAD
 Master branch input.
 Nice a ?
+=======
+I made a second branch
+----------------------
+did it work?
+>>>>>>> develop
 
