@@ -10,7 +10,7 @@ namespace Task_12_fibonacci
     {
         static void Main(string[] args)
         {
-            int n = int.Parse(Console.ReadLine());
+           // int n = int.Parse(Console.ReadLine());
             int firstFib = 1;
             int secondFib = 1;
 
@@ -28,6 +28,9 @@ namespace Task_12_fibonacci
                 }
                 Console.WriteLine(secondFib);
             }
+            int a = int.Parse(Console.ReadLine());
+            int b = int.Parse(Console.ReadLine());
+            Math.Abs(a - b);
                 
             
             Console.ReadKey();
