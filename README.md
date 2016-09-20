@@ -9,4 +9,8 @@ HERE COMES THE CONFLICT !!!
 brace yourself
 {{{{{{{{{{{{{{{
 
+IT GETS INTERESTING
+BRUHHH!!!
+
+LEts go. I messed up
 
