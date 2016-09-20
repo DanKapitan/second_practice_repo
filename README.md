@@ -8,3 +8,18 @@ and some dots ..........
 ()()()()()()()()
 LasT Task I hope
 lets seee +++
+HERE COMES THE CONFLICT !!!
+brace yourself
+{{{{{{{{{{{{{{{
+
+IT GETS INTERESTING
+BRUHHH!!!
+
+LEts go. I messed up
+Master branch input.
+Nice a ?
+I made a second branch
+----------------------
+did it work?
+>>>>>>> develop
+
