@@ -32,6 +32,9 @@ namespace Task_12_fibonacci
             int b = int.Parse(Console.ReadLine());
             Math.Abs(a - b);
                 
+            I done fucked up
+                // hahahahhahaha 
+                //what is this 
             
             Console.ReadKey();
         }
