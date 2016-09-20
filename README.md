@@ -5,7 +5,8 @@ Notice
 
 Now I have to make some changes
 and some dots ..........
-()()()()()()()()
+HERE COMES THE CONFLICT !!!
+brace yourself
+{{{{{{{{{{{{{{{
 
-IT GETS INTERESTING
-BRUHHH!!!
+
